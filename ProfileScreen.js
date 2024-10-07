@@ -53,7 +53,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 20,
-    backgroundColor: '#f5f5f5',
+    backgroundColor: 'lightgray',
     alignItems: 'center',
   },
   coverPhoto: {
@@ -134,12 +134,12 @@ const styles = StyleSheet.create({
     backgroundColor: '#FF3B30',
     padding: 10,
     borderRadius: 5,
-    width: '100%',
+    width: '49%',
     alignItems: 'center',
     marginTop: 'auto',
   },
   buttonText: {
-    color: '#fff',
+    color: 'white',
     fontWeight: 'bold',
   },
 });
